@@ -1,0 +1,83 @@
+[
+	{
+		"key": "sb",
+		"value": "dE7YZnaAJffn6AZ_OabLruTo",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.611Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "datr",
+		"value": "d07YZizOFNbvQC0hVyzqho60",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61556609578687",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "dpr",
+		"value": "0.800000011920929",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "fr",
+		"value": "1LR0Q79Xfsp0JY5bN.AWVKR2Hje6zpevDScYl3SI6cSpQ.Bm4YYk..AAA.0.0.Bm4YYk.AWV94NaXt0Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "xs",
+		"value": "19%3A2VPlrBWsKvs30Q%3A2%3A1725635516%3A-1%3A5903%3A%3AAcULP6Re1YouWTOeWSNb7ebLzf31JFv23UuQ7FFA37w",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	},
+	{
+		"key": "wd",
+		"value": "1697x805",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2024-09-11T12:00:08.612Z",
+		"lastAccessed": "2024-09-11T12:00:08.612Z"
+	}
+]
